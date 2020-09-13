@@ -14,7 +14,7 @@ BPDTS-TEST has been developed using the following tools/apps:
 * [IntelliJ] - IDE
 * [Rest Assured] - Rest Assured Libraries v 4.3.1
 
-And of course BPDTS-TEST itself is open source on on GitHub.
+And of course BPDTS-TEST itself is open source on GitHub.
 
 ### Installation
 
