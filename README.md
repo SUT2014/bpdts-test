@@ -20,4 +20,5 @@ And of course BPDTS-TEST itself is open source on on GitHub.
 
 Use Maven to build BPDTS-TEST.  the pom file can be found along with the source.
 Typical Maven commands:
+
 -- mvn test -PBpdtsAll
